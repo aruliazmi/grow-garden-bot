@@ -35,13 +35,6 @@ cd grow-garden-bot
 pip install -r requirements.txt
 ```
 
-**Contoh isi `requirements.txt`:**
-```
-python-telegram-bot==20.0
-aiohttp
-pytz
-```
-
 ### 3. Konfigurasi
 
 Edit variabel berikut di dalam file Python:
