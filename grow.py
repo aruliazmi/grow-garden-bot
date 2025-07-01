@@ -5,8 +5,8 @@ from telegram import Bot
 from telegram.constants import ParseMode
 import pytz
 
-BOT_TOKEN = "7263493594:AAH30QT4R-Dpng5DA0GYGAoUQqYp21p6miA"
-CHANNEL_ID = "@growgardeninfoo"
+BOT_TOKEN = "TOKEN_BOT_TELEGRAM"
+CHANNEL_ID = "CHANNEL_TELEGRAM"
 
 RARE_ITEMS = {
     "Master Sprinkler", "Tanning Mirror", "Friendship Pot",
